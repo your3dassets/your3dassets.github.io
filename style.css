@@ -13,9 +13,18 @@ color:white;
 header{
 display:flex;
 justify-content:space-between;
+align-items:center;
 padding:20px 60px;
 background:#020617;
 }
+
+#searchBox{
+padding:8px 12px;
+border-radius:5px;
+border:none;
+outline:none;
+}
+
 
 .logo{
 font-size:22px;
